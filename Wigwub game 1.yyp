@@ -13,6 +13,7 @@
     {"id":{"name":"oPDead","path":"objects/oPDead/oPDead.yy",},"order":13,},
     {"id":{"name":"snFoot","path":"sounds/snFoot/snFoot.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"sInquisitor_idle","path":"sprites/sInquisitor_idle/sInquisitor_idle.yy",},"order":29,},
     {"id":{"name":"snDeath","path":"sounds/snDeath/snDeath.yy",},"order":5,},
     {"id":{"name":"oHit_Spark","path":"objects/oHit_Spark/oHit_Spark.yy",},"order":21,},
     {"id":{"name":"sMountains_far","path":"sprites/sMountains_far/sMountains_far.yy",},"order":14,},
